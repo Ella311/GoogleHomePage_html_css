@@ -1,0 +1,42 @@
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+  <!-- Bootstrap Font Icon CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+
+<body>
+  <nav>
+    <section class="icon_o">
+      <i class="glyphicon glyphicon-arrow-left"></i>&nbsp
+      <i class="glyphicon glyphicon-arrow-right"></i>&nbsp
+      <i class="glyphicon glyphicon-repeat"></i>
+    </section>
+
+    <section class="adrs_bar">
+      &nbsp&nbsp<i class="glyphicon glyphicon-lock"></i>
+      <section class="icon"> <i class="glyphicon glyphicon-share"></i>&nbsp&nbsp&nbsp<i class="glyphicon glyphicon-star-empty"></i></section>
+    </section>
+    <section class="circle_A"></section>
+    <section class="dots"><i class="glyphicon glyphicon-option-vertical"></i></section>
+  </nav>
+  <hr>
+  <div class="box">
+    <p><b>Gmail</b> &nbsp&nbsp&nbsp&nbsp <b>Images</b>
+      &nbsp&nbsp&nbsp&nbsp<i class="glyphicon glyphicon-th"></i>
+    <section class="circle"></section>
+    </p>
+    <br>
+    <div class="google">Google</div>
+    <span>
+      <section class="search">
+        <i class="glyphicon glyphicon-search"></i><i class="bi bi-mic"></i>
+    </span>
+<div class="tab">
+  <section class="icon_tab"></section><section class="icon_tab1"></section> <section class="icon_tab2"></section> <section class="icon_tab3"></section> </div><br>
+      <div class="tab1">
+        <section class="icon1_tab"></section>
+  <section class="icon_tab1"></section> <section class="icon_tab2"></section> <section class="icon_tab3"></section> </div>
+
+  </div>
+</body>
